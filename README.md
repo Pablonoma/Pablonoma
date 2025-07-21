@@ -12,11 +12,11 @@ Hola soy Pablo
 Ingeniero en Informática, enfocado en desarrollo web. Me gusta crear aplicaciones útiles y enfrentar desafíos que me permitan crecer como desarrollador. Creo en el aprendizaje constante y en la mejora continua como base para construir buen software.
  
 🎓 &nbsp;Egresado de la carrera de Ingeniería Informática.\
-🌱 &nbsp;Estoy aprendiendo más sobre desarrollo Web, Diseño de Sistemas y Base de datos. \
-💡  &nbsp; Me gusta explorar nuevas tecnologías y desarrollar soluciones de software e ideas rápidas. \
+🌱 &nbsp;Estoy aprendiendo más sobre desarrollo Web y Diseño de sistemas. \
+💡  &nbsp; Me gusta explorar nuevas tecnologías y desarrollar soluciones de software. \
 🎯 &nbsp;En mi tiempo libre disfruto jugando videojuegos y escuchando música. \
 🤝 &nbsp;Puedes contactarme si necesitas ayuda o si quieres colaborar en proyectos. \
-📄 &nbsp;Si deseas revisar mi currículum, no dudes en escribirme. ¡Siempre agradezco sugerencias!\
+📄 &nbsp;Si deseas revisar mi currículum, no dudes en escribirme.\
 ✉️ &nbsp;Puedes escribirme al correo: devjuanpablocayul@gmail.com 
 
 
