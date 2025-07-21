@@ -48,7 +48,9 @@ Ingeniero en Informática, enfocado en desarrollo web. Me gusta crear aplicacion
 </span>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> Redes sociales
-
+<a href= "https://www.linkedin.com/in/juan-pablo-cayul-cort%C3%A9s-0ba5ab375/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 <a href= "https://www.instagram.com/Pablonoma_/?hl=es">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
