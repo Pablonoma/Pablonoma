@@ -12,7 +12,7 @@ Hola soy Pablo
 Ingeniero en Informática, enfocado en desarrollo web. Me gusta crear aplicaciones útiles y enfrentar desafíos que me permitan crecer como desarrollador. Creo en el aprendizaje constante y en la mejora continua como base para construir buen software.
  
 🎓 &nbsp;Egresado de la carrera de Ingeniería Informática.\
-🌱 &nbsp;Estoy aprendiendo más sobre desarrollo Web y Diseño de sistemas. \
+🌱 &nbsp;Estoy aprendiendo más sobre desarrollo Web y diseño de sistemas. \
 💡  &nbsp; Me gusta explorar nuevas tecnologías y desarrollar soluciones de software. \
 🎯 &nbsp;En mi tiempo libre disfruto jugando videojuegos y escuchando música. \
 🤝 &nbsp;Puedes contactarme si necesitas ayuda o si quieres colaborar en proyectos. \
@@ -44,7 +44,6 @@ Ingeniero en Informática, enfocado en desarrollo web. Me gusta crear aplicacion
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white">
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
 
 </span>
 
